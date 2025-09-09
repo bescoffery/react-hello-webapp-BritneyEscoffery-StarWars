@@ -1,0 +1,19 @@
+.characterContainer{
+    /* margin: auto;
+    width: 50%;
+    height: 100px; */
+    overflow-x: auto; /* // adds scroll bar */
+    overflow-y: auto;
+}
+
+.vehicleContainer{
+    /* margin: auto;
+    width: 50%;
+    height: 100px; */
+    overflow-x: auto; /* // adds scroll bar */
+    overflow-y: auto;
+}
+.planetContainer{
+    overflow-x: auto; /* // adds scroll bar */
+    overflow-y: auto;
+}

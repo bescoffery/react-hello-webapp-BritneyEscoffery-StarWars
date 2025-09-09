@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Favorites } from "../pages/Favorites";
 
 export const Navbar = () => {
 
@@ -13,6 +14,7 @@ export const Navbar = () => {
 						<button className="btn btn-primary">Check the Context in action</button>
 					</Link>
 				</div>
+				<Favorites />
 			</div>
 		</nav>
 	);
